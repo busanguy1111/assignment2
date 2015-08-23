@@ -52,3 +52,5 @@ x$setInverse(x)
 ## Return inverse matrix.
 MTRX
 }
+
+## The End
