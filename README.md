@@ -1,4 +1,4 @@
-### Assignment 2 for Coursera!
+### Assignment 2 for Coursera!!
 ### Introduction
 
 This second programming assignment will require you to write an R
